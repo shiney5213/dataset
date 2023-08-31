@@ -18,9 +18,9 @@ PASCAL_VOC dataset
 </pre>
 
 ## 1_1. Anontations 
-    - xml data
-    - JPEGImages 폴더 속 원본 image와 파일명 같음. (2007_00027.jpg, 2007_00027.xml)
-    - segmentation의 정답 data
+- xml data
+- JPEGImages 폴더 속 원본 image와 파일명 같음. (2007_00027.jpg, 2007_00027.xml)
+- segmentation의 정답 data
 
     # 2007_000039.xml
 
